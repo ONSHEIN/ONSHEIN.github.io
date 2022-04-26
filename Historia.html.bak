@@ -1,0 +1,72 @@
+<html>
+	<head>
+		<title>Shein-Historia</title>
+		<link rel="shorcut icon" href="sh.png">
+	</head>
+	<body bgcolor="#000000">
+		<img src=logo.png width="500" height="150">
+		<h1 align="center">
+			<font color="white" size="6" face="tahoma">
+				Nuestra historia
+			</font>
+		</h1>
+		<hr>
+		<br>
+		<center>
+			<li>
+				<font color="white" size="6" face="tahoma">
+					Historia
+				</font>
+			</li>
+		</center>
+		<p align="left">
+			<font color="white" size="3" face="tahoma">
+				Shein nació con otro nombre (ZZKKO) en China, donde fue fundada en 2008 por Chris Xu. La experiencia que adquirió como consultor de marketing y optimización de motores de búsqueda sería más tarde decisiva para crear el potente algoritmo del sitio, según Coresight Research.
+				Al principio, la empresa solo vendía vestidos de novia, dijo Schmidt. Más tarde se amplió a la ropa de mujer en general, adoptando el nombre de "Sheinside". En 2015, la empresa volvió a cambiar de nombre, diciendo que quería uno que fuera más fácil de recordar y de buscar en internet.
+			</font>
+		</p>
+		<br>
+		<center>
+			<li>
+				<font color="white" size="6" face="tahoma">
+					Mision
+				</font>
+			</li>
+		</center>
+		<p align="left">
+			<font color="white" size="3" face="tahoma">
+				SHEIN ofrece las últimas tendencias para mujeres y jóvenes, a unos precios más que atractivos. SHEIN es fiel a la idea de que "todo el mundo tiene derecho a disfrutar de la belleza de la moda". SHEIN es capaz de llevar las últimas tendencias basadas en la moda global y llevar esos estilos al mercado. Por tanto, si está buscando un estilo bohemio, camisetas gráficas, blusas estampadas o ropa de baño chic, SHEIN es su tienda. 
+		</p>
+		<br>
+		<center>
+			<li>
+				<font color="white" size="6" face="tahoma">
+					Vision
+				</font>
+			</li>
+		</center>
+		<p align="left">
+			<font color="white" size="3" face="tahoma">
+				SHEIN tiene como objetivo proporcionar los artículos más a la moda, al mismo tiempo que se dedica a proporcionar calidad, valor y servicio. Todo empieza con una idea concebida por nuestros diseñadores. La vida de un artículo comienza incluso antes de que el lápiz del diseñador toque el papel.
+			</font>
+		</p>
+		<br>
+		<br>
+		<A href="Principal.html">
+			<img src=s.png width="150" height="150">
+		</A>
+		<br>
+		<font color="red" size="4" face="tahoma">
+			Principal
+		</font>
+		<p align="center">
+			<font color="red" size="1" face="tahoma">
+				&copy; 2022. Derechos reservados<br>
+				Desarrollado por: Iliana Michelle Manzano Rodríguez
+				Matricula: 
+				Grupo: 605<br>
+				Plantel Nueva Tijuana
+				</b>
+			</font>
+	</body>
+</html>
